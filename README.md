@@ -1,0 +1,1 @@
+A Google homepage clone written in HTML and CSS for the Odin Project.
